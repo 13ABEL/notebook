@@ -1,0 +1,6 @@
+# result types
+
+Monadic result types
+
+
+IMO best used when transforming exceptions from external libraries. It allows us to explicity handle error cases without
